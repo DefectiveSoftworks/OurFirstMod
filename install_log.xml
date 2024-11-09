@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="OurFirstMod" Build_date="11/5/2024 12:05:18 AM">
+  <Files>
+    <Directory Path="E:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="E:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="E:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>E:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod\OurFirstMod.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

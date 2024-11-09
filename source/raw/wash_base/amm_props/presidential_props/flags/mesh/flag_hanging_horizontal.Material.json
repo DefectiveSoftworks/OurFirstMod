@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "MaterialJsonVersion": "1.0.0"
+  },
+  "MaterialRepo": "C:\\Users\\W3Geek\\AppData\\Roaming\\REDModding\\WolvenKit\\Depot",
+  "Materials": [
+    {
+      "Name": "flag_mat",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\american_flag.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\american_flag_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\american_flag_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30_n.xbm",
+        "DetailU": 15,
+        "DetailV": 15,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    },
+    {
+      "Name": "texas",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\texas_flag.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\texas_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.100000001,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30_n.xbm",
+        "DetailU": 15,
+        "DetailV": 15,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    },
+    {
+      "Name": "so_cal_damaged",
+      "BaseMaterial": "base\\environment\\decoration\\textiles\\flags\\american_flag\\so_cal_flag_damaged.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_cal_damaged_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_col_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    },
+    {
+      "Name": "nor_cal_damaged",
+      "BaseMaterial": "base\\environment\\decoration\\textiles\\flags\\american_flag\\nor_cal_flag_damaged.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_damaged_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    },
+    {
+      "Name": "so_cal",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\so_cal_flag.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": false,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\so_cal_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_col_n.xbm",
+        "AlphaThreshold": 0.100000001,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm"
+      }
+    },
+    {
+      "Name": "nc",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\night_city_flag.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": false,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\night_city_flag_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_n.xbm",
+        "AlphaThreshold": 0.100000001,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm"
+      }
+    },
+    {
+      "Name": "nor_cal",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\nor_cal_flag.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": false,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\nor_cal_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_n.xbm",
+        "AlphaThreshold": 0.100000001,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm"
+      }
+    },
+    {
+      "Name": "nc_damaged",
+      "BaseMaterial": "base\\environment\\decoration\\textiles\\flags\\american_flag\\night_city_flag_damaged.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_damaged_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+        "DetailU": 10,
+        "DetailV": 10,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    }
+  ],
+  "TexturesList": [
+    "engine\\textures\\editor\\checker_h.xbm",
+    "engine\\textures\\editor\\checker_n.xbm",
+    "engine\\textures\\editor\\white.xbm",
+    "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\american_flag_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\american_flag_n.xbm",
+    "engine\\textures\\editor\\black.xbm",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30_n.xbm",
+    "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\texas_d.xbm",
+    "engine\\textures\\editor\\normal.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_cal_damaged_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_col_n.xbm",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_damaged_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_n.xbm",
+    "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\so_cal_d.xbm",
+    "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\night_city_flag_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_n.xbm",
+    "wash_base\\amm_props\\presidential_props\\flags\\mesh\\textures\\nor_cal_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_damaged_d.xbm"
+  ],
+  "MaterialTemplates": [
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    }
+  ],
+  "Appearances": {
+    "nusa0": [
+      "flag_mat"
+    ],
+    "texas1": [
+      "texas"
+    ],
+    "south_california_damaged2": [
+      "so_cal_damaged"
+    ],
+    "night_city_damaged3": [
+      "nc_damaged"
+    ],
+    "nor_cal4": [
+      "nor_cal"
+    ],
+    "night_city5": [
+      "nc"
+    ],
+    "north_california_damaged6": [
+      "nor_cal_damaged"
+    ],
+    "so_cal7": [
+      "so_cal"
+    ]
+  }
+}

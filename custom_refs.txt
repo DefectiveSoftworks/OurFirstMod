@@ -1,0 +1,2 @@
+wash_base\amm_props\presidential_props\flags\mesh\textures\american_flag_d.xbm
+wash_base\amm_props\presidential_props\flags\mesh\textures\american_flag.mi
