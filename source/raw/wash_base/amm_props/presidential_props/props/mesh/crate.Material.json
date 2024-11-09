@@ -1,0 +1,243 @@
+{
+  "Header": {
+    "MaterialJsonVersion": "1.0.0"
+  },
+  "MaterialRepo": "C:\\Users\\W3Geek\\AppData\\Roaming\\REDModding\\WolvenKit\\Depot",
+  "Materials": [
+    {
+      "Name": "DarkOakCrateMaterial",
+      "BaseMaterial": "wash_base\\amm_props\\presidential_props\\props\\mesh\\textures\\crate.mi",
+      "MaterialTemplate": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "wash_base\\amm_props\\presidential_props\\props\\mesh\\textures\\crate_d.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "RoughnessScale": 0.899999976,
+        "RoughnessBias": 0,
+        "Normal": "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\american_flag_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30_n.xbm",
+        "DetailU": 15,
+        "DetailV": 15,
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "Roughness": "engine\\textures\\editor\\white.xbm"
+      }
+    }
+  ],
+  "TexturesList": [
+    "engine\\textures\\editor\\checker_h.xbm",
+    "engine\\textures\\editor\\checker_n.xbm",
+    "engine\\textures\\editor\\white.xbm",
+    "wash_base\\amm_props\\presidential_props\\props\\mesh\\textures\\crate_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\american_flag_n.xbm",
+    "engine\\textures\\editor\\black.xbm",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30_n.xbm",
+    "engine\\textures\\editor\\normal.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_cal_damaged_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\so_col_n.xbm",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30_n.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_damaged_d.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\nor_cal_n.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_n.xbm",
+    "base\\environment\\decoration\\textiles\\flags\\american_flag\\textures\\night_city_flag_damaged_d.xbm"
+  ],
+  "MaterialTemplates": [
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    },
+    {
+      "Name": "base\\materials\\metal_base_det.mt",
+      "EnableMask": true,
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\checker_h.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 1
+        },
+        "MetalnessScale": 1,
+        "MetalnessBias": 0.980000019,
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\checker_n.xbm",
+        "AlphaThreshold": 0.300000012,
+        "DetailColor": "engine\\textures\\editor\\white.xbm",
+        "DetailNormal": "engine\\textures\\editor\\checker_n.xbm",
+        "DetailU": 10,
+        "DetailV": 5
+      }
+    }
+  ],
+  "Appearances": {
+    "default0": [
+      "DarkOakCrateMaterial"
+    ]
+  }
+}
